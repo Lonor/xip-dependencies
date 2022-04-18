@@ -114,6 +114,12 @@
 		<artifactId>commons-compress</artifactId>
 		<version>1.21</version>
 	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.thoughtworks.xstream/xstream -->
+	<dependency>
+		<groupId>com.thoughtworks.xstream</groupId>
+		<artifactId>xstream</artifactId>
+		<version>1.4.19</version>
+	</dependency>
 
 </dependencies>
 
