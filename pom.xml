@@ -120,6 +120,12 @@
 		<artifactId>xstream</artifactId>
 		<version>1.4.19</version>
 	</dependency>
+	<!-- https://mvnrepository.com/artifact/io.micrometer/micrometer-core -->
+	<dependency>
+		<groupId>io.micrometer</groupId>
+		<artifactId>micrometer-core</artifactId>
+		<version>1.8.5</version>
+	</dependency>
 
 </dependencies>
 
